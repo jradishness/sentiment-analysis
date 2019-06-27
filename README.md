@@ -1,2 +1,2 @@
 # sentiment-analysis
-My first Python project, we built and compared several over-the-counter prediction models for Sentiment Analysis using the IMDB dataset.
+My first Python project, my partner and I trained and compared several over-the-counter prediction models for Sentiment Analysis using the IMDB dataset. This was a project for LING 5410 Computational Linguistics.
