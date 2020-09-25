@@ -1,3 +1,6 @@
 # sentiment-analysis
-My partner and I trained and compared several over-the-counter prediction models for Sentiment Analysis using the IMDB dataset. 
-This was a project for LING 5410 Computational Linguistics.
+This repository includes work done on sentiment analysis. 
+
+`yelp_vader_lr.ipynb` is the most current work. 
+It includes a linear regressor that predicts between 1-5 (star score) instead of 0-1 (binary sentiment). 
+The features used for regressor training were scores output from the vaderSentiment tool found [here](https://pypi.org/project/vaderSentiment/)
